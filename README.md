@@ -1,0 +1,2 @@
+# RigWM
+customer publishing repository
